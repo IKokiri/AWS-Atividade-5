@@ -1,0 +1,24 @@
+{
+  "name": "at-5",
+  "version": "1.0.0",
+  "description": "Teste graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IKokiri/AWS-Atividade-5.git"
+  },
+  "author": "Luiz Mendes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IKokiri/AWS-Atividade-5/issues"
+  },
+  "homepage": "https://github.com/IKokiri/AWS-Atividade-5#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.4.0"
+  }
+}
